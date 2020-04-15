@@ -1,4 +1,5 @@
-# idea-transpilator-to-some-languagecobol
+# 
+ideas-transpilators-from-to-some-language 
 The idea is to write a compiler from some language to a program in the some language or vice versa
 
 # COBOL
