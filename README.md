@@ -5,11 +5,12 @@ The idea is to write a compiler from some language to a program in the some lang
 
 transpiler from COBOL to X or from X to COBOL (where X = modern programming language).
 
---
+---
 
 # in russian:
 
 ---
+
 ## Идеи транскомпиляторов.
 
 ### COBOL
